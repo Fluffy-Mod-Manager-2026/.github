@@ -9,7 +9,7 @@ Instead of manually copying files into game directories, Fluffy Mod Manager give
 ## 🔗 Latest Release
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Fluffy-Mod-Manager-2026/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
